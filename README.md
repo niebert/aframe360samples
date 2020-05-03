@@ -3,4 +3,5 @@ AFrame360 Examples with [AFrame](https://aframe.io/examples/showcase/sky/) and [
 
 ## Examples from WikiCommons
 The examples are created to visualize 360-degree images from WikiCommons:
-* [Interior of a Room](https://niebert.github,io/interior/index.html) [Souce Image](https://commons.wikimedia.org/wiki/File:Interior_of_Hallwylska_360_degree_28.JPG)
+* **[Interior of a Room](https://niebert.github,io/interior/index.html)** - [Souce Image - Wiki Commons](https://commons.wikimedia.org/wiki/File:Interior_of_Hallwylska_360_degree_28.JPG)
+* **[Lake](https://niebert.github,io/interior/index.html)** - [Souce Image - AFrame](https://aframe.io/aframe/examples/showcase/composite/lake.jpg)
