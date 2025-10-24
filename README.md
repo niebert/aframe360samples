@@ -10,5 +10,5 @@ The examples are created to visualize 360-degree images from WikiCommons:
 ## See also 
 * [AR-Examples](https://www.github.com/niebert/AR-Examples)
 * [Aframe-Example - Lee Stemkoski](https://stemkoski.github.io/A-Frame-Examples/)
-* [HuginSamples - Equirectangular Image](https://www.github.com/niebert/HuginSamples) - create equirectangular images with [OpenSource Hugin](https://hugin.sourceforge.io/download/)) - [Hugin Tutorial 1](https://www.youtube.com/watch?v=TerkdecfryQ)
+* [HuginSample - Equirectangular Images](https://www.github.com/niebert/HuginSample) - create equirectangular 360 degree images with [OpenSource Hugin](https://hugin.sourceforge.io/download/)) from a list of standard images recorded from different angles to cover the full sphere - [Hugin Tutorial 1](https://www.youtube.com/watch?v=TerkdecfryQ)
 * [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe) - Try out to create a 3D scene with geometrical objects and export AR.js or Aframe 3D scenes.
